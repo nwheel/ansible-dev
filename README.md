@@ -31,4 +31,6 @@ Learning to track my code for ansible devlopment
          
  ## Authors
  
- * **rn;Nathen Wheelbarger** - *Initial work* - [YourWebsite](https://example.com/learning about ansible)
+ * **Nathen Wheelbarger** - *Initial work* - [YourWebsite](https://example.com/)
+
+learning about ansible
